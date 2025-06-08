@@ -1,0 +1,65 @@
+Tell me about your hometown  
+Tell me about your family  
+Introduce your university  
+Introduce your major  
+Tell me about your first-authored paper  
+Describe your research experience  
+Which other schools have you applied to?  
+Have you participated in student organizations or extracurricular activities?  
+What is the most unforgettable experience in your life?  
+Tell me about the local food in your hometown  
+How did you deal with academic pressure before?  
+How do you read academic papers?  
+Which journals do you usually read, and which ones are considered high-level?  
+Introduce a recent paper you've read  
+How do you collect literature resources?  
+Your grade in course xx is very high; how did you study it?  
+Could you describe your learning methods?  
+Why didn't you take the course "Compilers"? It's a core course for our major  
+What research area are you interested in, and why?  
+How would you develop ideas if given a new research topic?  
+What contributions can you make to the team during your postgraduate studies?  
+What do you think constitutes top-tier research?  
+What qualities do you think an excellent researcher should have?  
+What’s your view on failure in scientific research?  
+What if you cannot produce any results for a long time?  
+What have you gained from your research experiences?  
+Have you contacted any potential advisor? What is their research direction? What's your understanding of that field?  
+How do you plan your postgraduate studies?  
+Where do you see yourself in five years after graduation?  
+What kind of opportunities are you looking for?  
+Do you plan to pursue a Ph.D.?  
+In which city or region do you plan to settle down? 
+Why do you want to pursue a master's degree instead of entering the workforce directly?  
+Why did you choose this university?  
+Why should we offer you a place?  
+If we offer you admission, will you come?  
+Are your parents supportive of your decision to pursue a master's degree?  
+What is your greatest strength?  
+What is your biggest weakness?  
+In which areas do you think you still need improvement?  
+Summarize yourself in three words  
+What kind of relationship do you expect with your supervisor?  
+How do you deal with setbacks?  
+If you fail this time, what will you do next?  
+What if your expectations of graduate life don't match reality?  
+Have you ever experienced setbacks before?  
+What if there are no holidays in the lab?  
+What role do you usually play in a team?  
+As a team leader, how would you handle members who avoid responsibilities or pass the blame?  
+What are your hobbies?  
+What kind of books do you like? Name one  
+What is your favorite music?  
+What did you gain from participating in competitions?  
+How do you balance study and personal life?  
+What is your favorite movie?  
+Who do you admire the most?  
+How many offers do you currently have? Will you accept ours if offered?  
+Are you satisfied with your performance in today’s interview?  
+Why was your score low in course Assembly Language?  
+What advantages do you have for doing research?  
+What kind of relationship do you expect with your supervisor?  
+Do you have any questions for us?  
+Who was the most influential teacher during your undergraduate studies, and why?  
+Which professional course did you like the most, and why?  
+What was the most fulfilling thing you've done?
