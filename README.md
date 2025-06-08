@@ -4,7 +4,6 @@
 ## 项目结构
 
 ```
-.
 ├── data/                   # 数据目录
 │   ├── problems.txt       # 问题文本文件，包含所有问题
 │   └── wavs/              # 音频文件目录，存储所有问题的录音文件
@@ -20,8 +19,8 @@
 
 ## 启动项目
 ```sh
-git clone https://github.com/your-repo/your-repo.git
-cd your-repo
+git clone https://github.com/i11box/baoyan-english.git
+cd baoyan-english
 conda create -n baoyan python=3.12
 conda activate baoyan
 pip install pydub # 需要先安装ffmpeg
